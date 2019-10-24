@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+.idea
+solve_tasks/
+media/
+venv/
+*.csv
+*.png
+*.jpg
+*.html
+task8_2/
